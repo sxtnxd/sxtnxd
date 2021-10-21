@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   
   
 <a href="https://github.com/sxtnxd">
