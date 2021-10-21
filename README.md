@@ -5,13 +5,7 @@
  <a href="https://www.reddit.com/user/sxtnxdd" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a> 
   <a href = "mailto:emillydpes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://open.spotify.com/user/313g6ar6tqdzwpaf4e4x5plfwyay"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
-  
-</div>
-  
-  
- 
- 
-<div align="center"> 
+
   
   <a href="https://github.com/sxtnxd">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sxtnxd&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
